@@ -1,0 +1,12 @@
+{
+  "ecmaVersion": 7,
+  "libs": [],
+  "loadEagerly": [
+    "src/**/*.js",
+    "node_modules/react/lib/**/*.js",
+    "node_modules/react-dom/lib/**/*.js"
+  ],
+  "plugins": {
+    "es_modules": {}
+  }
+}
